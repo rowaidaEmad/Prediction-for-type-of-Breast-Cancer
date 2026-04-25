@@ -163,9 +163,6 @@ Examples of generated visual outputs include:
 
 ---
 
-
----
-
 ## How to Run
 
 Start Jupyter Notebook:
